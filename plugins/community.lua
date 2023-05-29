@@ -16,6 +16,8 @@ return {
   -- Note-taking
   { import = "astrocommunity.note-taking.neorg" },
   --
+  -- Motion
+  { import = "astrocommunity.motion.nvim-surround" },
   -- Language packages
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.typescript" },
